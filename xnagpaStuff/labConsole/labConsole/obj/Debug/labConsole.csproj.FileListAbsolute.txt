@@ -1,0 +1,6 @@
+c:\users\maxc\documents\visual studio 2012\Projects\labConsole\labConsole\bin\Debug\labConsole.exe.config
+c:\users\maxc\documents\visual studio 2012\Projects\labConsole\labConsole\bin\Debug\labConsole.exe
+c:\users\maxc\documents\visual studio 2012\Projects\labConsole\labConsole\bin\Debug\labConsole.pdb
+c:\users\maxc\documents\visual studio 2012\Projects\labConsole\labConsole\obj\Debug\labConsole.csprojResolveAssemblyReference.cache
+c:\users\maxc\documents\visual studio 2012\Projects\labConsole\labConsole\obj\Debug\labConsole.exe
+c:\users\maxc\documents\visual studio 2012\Projects\labConsole\labConsole\obj\Debug\labConsole.pdb
